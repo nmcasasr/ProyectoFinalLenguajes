@@ -1,5 +1,5 @@
 # ProyectoFinalLenguajes
 ## Ingrantes
 *   Marcelo Escamilla 
-*   Ivan Rene
+*   Ivan Delgado
 *   Nicolas Casas
